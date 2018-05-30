@@ -1,0 +1,2 @@
+jieba			https://github.com/fxsjy/jieba
+Chinese-Word-Vectors	https://github.com/Embedding/Chinese-Word-Vectors
